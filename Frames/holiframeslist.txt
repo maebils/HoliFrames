@@ -27,9 +27,6 @@
     "https://raw.githubusercontent.com/maebils/HoliFrames/master/Frames/landscape/image13.png",
     "https://raw.githubusercontent.com/maebils/HoliFrames/master/Frames/landscape/image14.png",
     "https://raw.githubusercontent.com/maebils/HoliFrames/master/Frames/landscape/image15.png",
-    "https://raw.githubusercontent.com/maebils/HoliFrames/master/Frames/landscape/image16.png",
-    "https://raw.githubusercontent.com/maebils/HoliFrames/master/Frames/landscape/image17.png",
-    "https://raw.githubusercontent.com/maebils/HoliFrames/master/Frames/landscape/image18.png",
-    "https://raw.githubusercontent.com/maebils/HoliFrames/master/Frames/landscape/image19.png"
+    "https://raw.githubusercontent.com/maebils/HoliFrames/master/Frames/landscape/image16.png"
     ]
 }
